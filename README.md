@@ -1,0 +1,1 @@
+A react app mainly used to convert speech to text and viceversa.
